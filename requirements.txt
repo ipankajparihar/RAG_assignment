@@ -1,0 +1,7 @@
+# project requirement
+fastapi
+uvicorn[standard]
+google-generativeai
+chromadb
+python-dotenv
+pydantic
