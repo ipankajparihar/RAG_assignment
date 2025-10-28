@@ -8,6 +8,9 @@ Activate it: ```source venv/bin/activate (or .\venv\Scripts\activate on Windows)
 
 Install dependencies: ```pip install -r requirements.txt```
 
+### Add you API key for Gemini in .env
+GOOGLE_API_KEY =
+
 ### Run the ingestion script from the project's root directory:
 
 
